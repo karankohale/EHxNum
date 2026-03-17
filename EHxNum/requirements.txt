@@ -1,0 +1,6 @@
+phonenumbers
+rich
+halo
+requests
+pyfiglet
+colorama
