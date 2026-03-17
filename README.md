@@ -335,3 +335,9 @@ YouTube
 https://www.youtube.com/@ehxanomity
 
 ---
+
+#EhxNum
+
+EHxNum is an OSINT phone number intelligence tool that helps gather information about phone numbers.
+
+
