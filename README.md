@@ -76,7 +76,7 @@ EHxNum works on:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EHxNum.git
+git clone https://github.com/karankohale/EHxNum.git
 cd EHxNum
 ```
 
